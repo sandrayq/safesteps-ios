@@ -1,0 +1,48 @@
+//login view
+"Greetings-Title" = "नमस्ते!";
+"Welcome-Text" = "SafeSteps में आपका स्वागत है, आपका विश्वसनीय चलने वाला साथी!";
+"Email-Address" = "ईमेल पता";
+"Example-Gmail" = "name@example.com";
+"Password-Title" = "पासवर्ड";
+"Enter-your-password" = "अपना पासवर्ड दर्ज करें";
+"LOGIN-BUTTON" = "लॉग इन करें";
+"NO-ACCOUNT-QUESTION?" = "क्या आपका खाता नहीं है?";
+"CREATE-AN-ACCOUNT" = "खाता बनाएं";
+
+//register view
+"Full-Name" = "पूरा नाम";
+"Enter-your-full-name" = "अपना पूरा नाम दर्ज करें";
+"Confirm-Password" = "पासवर्ड की पुष्टि करें";
+"Confirm-your-password" = "अपना पासवर्ड पुष्टि करें";
+"GET-STARTED" = "शुरू करें";
+"ALREADY-ACCOUNT-QUESTION?" = "क्या आपके पास पहले से खाता है?";
+
+//map view
+"SEARCH-BAR" = "स्थान खोजें...";
+"Behavioral-Crimes-Button" = "व्यवहार संबंधी अपराध";
+"Theft-Button" = "चोरी";
+"Property-Damage-Button" = "संपत्ति क्षति";
+"Sexual-Violence-Button" = "यौन हिंसा";
+"Drugs-Button" = "मादक पदार्थ";
+"Other-Button" = "अन्य";
+"Show-All-Button" = "सभी दिखाएं";
+
+//profile view
+"General-Heading" = "सामान्य";
+"Version-Functionality" = "संस्करण";
+"Account-Heading" = "खाता";
+
+//tool bar
+"Experiences-Toolbar" = "अनुभव";
+"Map-Toolbar" = "नक्शा";
+"Profile-Toolbar" = "प्रोफ़ाइल";
+"Sign-Out" = "साइन आउट करें";
+
+//user experiences view
+"Sub-Heading" = "इसे अपने सुरक्षित निजी डायरी के रूप में उपयोग करें!";
+"User-Experiences" = "उपयोगकर्ता अनुभव";
+"Title-Field" = "शीर्षक";
+"Date-Field" = "तारीख";
+"Add-Experience" = "अनुभव जोड़ें";
+"Cancel-Button" = "रद्द करें";
+"Save-Button" = "सहेजें";

@@ -1,0 +1,48 @@
+//login view
+"Greetings-Title" = "你好!";
+"Welcome-Text" = "歡迎使用 SafeSteps，您值得信賴的步行夥伴!";
+"Email-Address" = "電子郵件地址";
+"Example-Gmail" = "name@example.com";
+"Password-Title" = "密碼";
+"Enter-your-password" = "輸入您的密碼";
+"LOGIN-BUTTON" = "登入";
+"NO-ACCOUNT-QUESTION?" = "沒有帳戶？";
+"CREATE-AN-ACCOUNT" = "建立帳戶";
+
+//register view
+"Full-Name" = "全名";
+"Enter-your-full-name" = "輸入您的全名";
+"Confirm-Password" = "確認密碼";
+"Confirm-your-password" = "確認您的密碼";
+"GET-STARTED" = "開始使用";
+"ALREADY-ACCOUNT-QUESTION?" = "已經有帳戶？";
+
+//map view
+"SEARCH-BAR" = "搜尋位置...";
+"Behavioral-Crimes-Button" = "行為犯罪";
+"Theft-Button" = "盜竊";
+"Property-Damage-Button" = "財產損害";
+"Sexual-Violence-Button" = "性暴力";
+"Drugs-Button" = "毒品";
+"Other-Button" = "其他";
+"Show-All-Button" = "顯示全部";
+
+//profile view
+"General-Heading" = "一般";
+"Version-Functionality" = "版本";
+"Account-Heading" = "帳戶";
+
+//tool bar
+"Experiences-Toolbar" = "經歷";
+"Map-Toolbar" = "地圖";
+"Profile-Toolbar" = "個人檔案";
+"Sign-Out" = "登出";
+
+//user experiences view
+"Sub-Heading" = "將此作為您的安全私人日記!";
+"User-Experiences" = "用戶經歷";
+"Title-Field" = "標題";
+"Date-Field" = "日期";
+"Add-Experience" = "新增經歷";
+"Cancel-Button" = "取消";
+"Save-Button" = "儲存";

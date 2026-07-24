@@ -1,0 +1,49 @@
+//login view
+"Greetings-Title" = "Bonjour !";
+"Welcome-Text" = "Bienvenue sur SafeSteps, votre compagnon de marche de confiance !";
+"Email-Address" = "Adresse e-mail";
+"Example-Gmail" = "nom@example.com";
+"Password-Title" = "Mot de passe";
+"Enter-your-password" = "Entrez votre mot de passe";
+"LOGIN-BUTTON" = "CONNEXION";
+"NO-ACCOUNT-QUESTION?" = "Vous n'avez pas de compte ?";
+"CREATE-AN-ACCOUNT" = "Créer un compte";
+
+//register view
+"Full-Name" = "Nom complet";
+"Enter-your-full-name" = "Entrez votre nom complet";
+"Confirm-Password" = "Confirmer le mot de passe";
+"Confirm-your-password" = "Confirmez votre mot de passe";
+"GET-STARTED" = "COMMENCER";
+"ALREADY-ACCOUNT-QUESTION?" = "Vous avez déjà un compte ?";
+
+//map view
+"SEARCH-BAR" = "Rechercher un lieu...";
+"Behavioral-Crimes-Button" = "Crimes comportementaux";
+"Theft-Button" = "Vol";
+"Property-Damage-Button" = "Dommages matériels";
+"Sexual-Violence-Button" = "Violence sexuelle";
+"Drugs-Button" = "Drogues";
+"Other-Button" = "Autres";
+"Show-All-Button" = "Tout afficher";
+
+//profile view
+"General-Heading" = "Général";
+"Version-Functionality" = "Version";
+"Account-Heading" = "Compte";
+
+//tool bar
+"Experiences-Toolbar" = "Expériences";
+"Map-Toolbar" = "Carte";
+"Profile-Toolbar" = "Profil";
+"Sign-Out" = "Déconnexion";
+
+//user experiences view
+"Sub-Heading" = "Utilisez ceci comme votre journal privé sécurisé !";
+"User-Experiences" = "Expériences utilisateur";
+"Title-Field" = "Titre";
+"Date-Field" = "Date";
+"Add-Experience" = "Ajouter une expérience";
+"Cancel-Button" = "Annuler";
+"Save-Button" = "Enregistrer";
+

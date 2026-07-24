@@ -1,0 +1,48 @@
+//login view
+"Greetings-Title" = "Hello!";
+"Welcome-Text" = "Welcome to SafeSteps, your trusted walking companion!";
+"Email-Address" = "Email Address";
+"Example-Gmail" = "name@example.com";
+"Password-Title" = "Password";
+"Enter-your-password" = "Enter your password";
+"LOGIN-BUTTON" = "LOGIN";
+"NO-ACCOUNT-QUESTION?" = "Don't have an account?";
+"CREATE-AN-ACCOUNT" = "Create an account";
+
+//register view
+"Full-Name" = "Full Name";
+"Enter-your-full-name" = "Enter your full name";
+"Confirm-Password" = "Confirm Password";
+"Confirm-your-password" = "Confirm your password";
+"GET-STARTED" = "GET STARTED";
+"ALREADY-ACCOUNT-QUESTION?" = "Already have an account?";
+
+//map view
+"SEARCH-BAR" = "Search for a location...";
+"Behavioral-Crimes-Button" = "Behavioral Crimes";
+"Theft-Button" = "Theft";
+"Property-Damage-Button" = "Property Damage";
+"Sexual-Violence-Button" = "Sexual Violence";
+"Drugs-Button" = "Drugs";
+"Other-Button" = "Other";
+"Show-All-Button" = "Show All";
+
+//profile view
+"General-Heading" = "General";
+"Version-Functionality" = "Version";
+"Account-Heading" = "Account";
+
+//tool bar
+"Experiences-Toolbar" = "Experiences";
+"Map-Toolbar" = "Map";
+"Profile-Toolbar" = "Profile";
+"Sign-Out" = "Sign out";
+
+//user experiences view
+"Sub-Heading" = "Use this as your secure private diary!";
+"User-Experiences" = "User Experiences";
+"Title-Field" = "Title";
+"Date-Field" = "Date";
+"Add-Experience" = "Add Experience";
+"Cancel-Button" = "Cancel";
+"Save-Button" = "Save";

@@ -1,0 +1,48 @@
+//login view
+"Greetings-Title" = "Hola!";
+"Welcome-Text" = "Bienvenid@ a SafeSteps, tu guía y amigo fiel para caminar!";
+"Email-Address" = "Correo Electrónico";
+"Example-Gmail" = "nombre@ejemplo.com";
+"Password-Title" = "Contraseña";
+"Enter-your-password" = "Ingresa tu contraseña";
+"LOGIN-BUTTON" = "INICIAR SESIÓN";
+"NO-ACCOUNT-QUESTION?" = "¿Todavía no tienes una cuenta?";
+"CREATE-AN-ACCOUNT" = "Crea una cuenta";
+
+//register view
+"Full-Name" = "Nombre Completo";
+"Enter-your-full-name" = "Ingresa tu nombre completo";
+"Confirm-Password" = "Confirmar contraseña";
+"Confirm-your-password" = "Confirma tu contraseña";
+"GET-STARTED" = "Empezar ahora";
+"ALREADY-ACCOUNT-QUESTION?" = "¿Ya tienes una cuenta?";
+
+//map view
+"SEARCH-BAR" = "Busca una ubicación...";
+"Behavioral-Crimes-Button" = "Delitos de conducta";
+"Theft-Button" = "Robo";
+"Property-Damage-Button" = "Daños a la propiedad";
+"Sexual-Violence-Button" = "Violencia sexual";
+"Drugs-Button" = "Drogas";
+"Other-Button" = "Otros";
+"Show-All-Button" = "Mostrar todo";
+
+//profile view
+"General-Heading" = "General";
+"Version-Functionality" = "Versión";
+"Account-Heading" = "Cuenta";
+
+//tool bar
+"Experiences-Toolbar" = "Experiencias";
+"Map-Toolbar" = "Mapa";
+"Profile-Toolbar" = "Perfil";
+"Sign-Out" = "Cerrar sesión";
+
+//user experiences view
+"Sub-Heading" = "Utiliza esto como tu diario privado y secreto!";
+"User-Experiences" = "Experiencias Privadas";
+"Title-Field" = "Título";
+"Date-Field" = "Fecha";
+"Add-Experience" = "Añadir Experiencias";
+"Cancel-Button" = "Cancelar";
+"Save-Button" = "Guardar";

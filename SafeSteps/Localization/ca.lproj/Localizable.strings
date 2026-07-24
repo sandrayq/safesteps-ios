@@ -1,0 +1,48 @@
+//login view
+"Greetings-Title" = "Hola!";
+"Welcome-Text" = "Benvingut a SafeSteps, el teu company de passeig de confiança!";
+"Email-Address" = "Adreça electrònica";
+"Example-Gmail" = "nom@example.com";
+"Password-Title" = "Contrasenya";
+"Enter-your-password" = "Introdueix la teva contrasenya";
+"LOGIN-BUTTON" = "INICIA LA SESSIÓ";
+"NO-ACCOUNT-QUESTION?" = "No tens un compte?";
+"CREATE-AN-ACCOUNT" = "Crea un compte";
+
+//register view
+"Full-Name" = "Nom complet";
+"Enter-your-full-name" = "Introdueix el teu nom complet";
+"Confirm-Password" = "Confirma la contrasenya";
+"Confirm-your-password" = "Confirma la teva contrasenya";
+"GET-STARTED" = "COMENÇA";
+"ALREADY-ACCOUNT-QUESTION?" = "Ja tens un compte?";
+
+//map view
+"SEARCH-BAR" = "Cerca una ubicació...";
+"Behavioral-Crimes-Button" = "Crims de comportament";
+"Theft-Button" = "Robatori";
+"Property-Damage-Button" = "Danys materials";
+"Sexual-Violence-Button" = "Violència sexual";
+"Drugs-Button" = "Drogues";
+"Other-Button" = "Altres";
+"Show-All-Button" = "Mostra-ho tot";
+
+//profile view
+"General-Heading" = "General";
+"Version-Functionality" = "Versió";
+"Account-Heading" = "Compte";
+
+//tool bar
+"Experiences-Toolbar" = "Experiències";
+"Map-Toolbar" = "Mapa";
+"Profile-Toolbar" = "Perfil";
+"Sign-Out" = "Tanca la sessió";
+
+//user experiences view
+"Sub-Heading" = "Fes servir això com el teu diari privat segur!";
+"User-Experiences" = "Experiències de l’usuari";
+"Title-Field" = "Títol";
+"Date-Field" = "Data";
+"Add-Experience" = "Afegeix experiència";
+"Cancel-Button" = "Cancel·la";
+"Save-Button" = "Desa";
