@@ -1,6 +1,6 @@
 # SafeSteps
 <p align="center">
-  <img src="Screenshots/banner.png" width="900">
+  <img src="safesteps logo-png" width="900">
 </p>
 
 <p align="center">
