@@ -1,10 +1,23 @@
 # SafeSteps
+<p align="center">
+  <img src="Screenshots/banner.png" width="900">
+</p>
 
+<p align="center">
 SafeSteps is an iOS application that aims to make travel safer by combining **real time crime data from the UK Police API** and interactive maps. 
 
 The application visualises crime data in London as a Heatmap. It allows users to filter crime data by category, search different locations, save personal safety experiences, and securely authenticate using Firebase.
 
 The app integrates the UK Police API to retrieve real time crime data for London each month, ensuring users always have access to the latest crime reports. If the API is unavailable, the application automatically falls back to a locally stored dataset so the map remains functional.
+</p>
+
+---
+
+## Architecture
+
+The project follows the MVVM (Model–View–ViewModel) architecture to separate user interface components, logic and data management. Firebase handles authentication and cloud storage, while the UK Police API supplies up-to-date crime information displayed using MapKit.
+
+---
 
 ## Features
 
@@ -75,9 +88,8 @@ Supports multiple languages, currently including:
 ---
 
 ## Future Improvements
-1. `Keeping in touch with friends and family:` Adding a ‘messages’ function in the future to keep in touch with friends and family. This would allow more security and relief.
-4. `More real-time crime data integration:` As the UK police crime data is uploaded each month with some sort of delay, the API used for the crime data map is always one and a half month behind. For a more comprehensive use, more accurate, real time data could be found to substitute and enhance the utility of the app.
-5. `Multi-city support:` As the application is secluded to London at the moment, future possibilities would be to include more cities and even countries, making the application more accessible and useful to more people. (this is possible for the whole UK, because of the publicly available crime data, but other countries data must be sought first).
-6. `Custom alerts for high-risk areas:` Automatic alerts when stepping into high-risk areas could be implemented.
-7. `Connectivity to Facebook or other social media:` To register faster, connectivity to other social media could be used as a method
-to sign in.
+1. Adding a ‘messages’ function to keep in touch with friends and family. This would allow more security and relief.
+2. As the UK police crime data is uploaded each month with some sort of delay, the API used for the crime data map is always one and a half month behind. For a more comprehensive use, more accurate, real time data could be found to substitute.
+3. Multi-city support (this is possible for the whole UK, because of the publicly available UK crime data, but other countries data must be sought first).
+4. Automatic alerts when stepping into high risk areas.
+5. Connectivity to other social media could be used as a method to sign in.
