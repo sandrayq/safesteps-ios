@@ -1,15 +1,13 @@
-# SafeSteps
-<p align="center">
-  <img src="safesteps logo-png" width="900">
+# SafeSteps 
+<p align="left">
+  <img src="Screenshots/logo.png" width="200">
 </p>
 
-<p align="center">
 SafeSteps is an iOS application that aims to make travel safer by combining **real time crime data from the UK Police API** and interactive maps. 
 
 The application visualises crime data in London as a Heatmap. It allows users to filter crime data by category, search different locations, save personal safety experiences, and securely authenticate using Firebase.
 
 The app integrates the UK Police API to retrieve real time crime data for London each month, ensuring users always have access to the latest crime reports. If the API is unavailable, the application automatically falls back to a locally stored dataset so the map remains functional.
-</p>
 
 ---
 
@@ -72,6 +70,25 @@ Supports multiple languages, currently including:
 - Cloud Firestore
 - JSON
 - SF Symbols
+
+---
+
+## Screenshots
+### Login
+
+![Login](Screenshots/login.png)
+
+### Crime Map
+
+![Crime Map](Screenshots/map.png)
+
+### User Experiences
+
+![Community Experiences](Screenshots/userexp.png)
+
+### Profile
+
+![Profile](Screenshots/profile.png)
 
 ---
 
